@@ -1,3 +1,2 @@
 # discord-raid-bot
-Discord raid bot by mth at Project Eternal
-DISCORD:https://discord.gg/SttK6Apy7C
+Probably by now outdated Nuke bot I made while learning discord.js. No point of using it 
